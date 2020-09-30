@@ -35,7 +35,7 @@ h1 {
 .wrapper input[type="email"],
 .wrapper input[type="password"] {
   border: none;
-
+  border-bottom: 1px solid rgba(46, 204, 122, 0.1);
   background: transparent;
   outline: none;
   height: 30px;
